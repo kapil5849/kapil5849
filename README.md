@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kapil</h1>
+<h1 align="center">Hey 👋, I'm kapil</h1>
 <h3 align="center">Beginner coder | Love JS but DSA in C++ only | want to be a good developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil5849&label=Profile%20views&color=0e75b6&style=flat" alt="kapil5849" /> </p>
