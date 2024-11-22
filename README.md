@@ -4,16 +4,16 @@
 
 <h3> 💻 About Me </h3>
 
-- 🔭 &nbsp; currently focussing Competitive Coding 
-- 🎓 &nbsp; Studying Electrical but,unofficialy computer science...
+- 🔭 &nbsp; currently intern at ArLab
+- 🎓 &nbsp; Studying Electrical but, unofficial computer science...
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
 - ✍️ &nbsp; Watching tech talks & technology related videos
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C/C++
-- 🌐 &nbsp; HTML | CSS | Tailwind | JavaScript | React
-- 🔧 &nbsp; Canva | VS code | Git
+- 💻 &nbsp; C++
+- 🌐 &nbsp; HTML | CSS | Tailwind | JavaScript | React | Next.js
+- 🔧 &nbsp; Canva | VS code | Git | GitHub
 - 👯 &nbsp; I’m looking to collaborate on **open source**
 
 
